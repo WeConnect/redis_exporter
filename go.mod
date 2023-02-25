@@ -13,5 +13,5 @@ require (
 	github.com/prometheus/prometheus v2.5.0+incompatible
 	github.com/sirupsen/logrus v1.4.1
 	github.com/stretchr/testify v1.3.0 // indirect
-	golang.org/x/sys v0.0.0-20190405154228-4b34438f7a67 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
